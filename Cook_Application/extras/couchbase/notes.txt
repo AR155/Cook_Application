@@ -1,0 +1,2 @@
+-- reference link for bucket password in couchbase --
+https://stackoverflow.com/questions/51496589/bucket-password-in-couchbase
